@@ -4,15 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Pipeline](#pipeline)
-- [Algorithms](#algorithms)
-- [Results](#results)
-- [References](#references)
-
 ---
 
 ## Overview
