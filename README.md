@@ -3,9 +3,6 @@
 > A machine learning pipeline for automated cardiac arrhythmia detection from 12-lead ECG signals.
 
 ---
-
----
-
 ## Overview
 
 Electrocardiograms (ECGs) are a fundamental diagnostic tool in cardiology, capturing the heart's electrical activity across characteristic waveforms — the P-wave, QRS complex, and T-wave. Manual interpretation of large ECG datasets is time-consuming and error-prone.
